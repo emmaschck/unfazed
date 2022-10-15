@@ -18,7 +18,7 @@ body {
     background-image: url('background.png');
     background-repeat: no-repeat;
     background-color: #f2f1ec;
-    background-size:contain;
+    background-width:100%;
     padding: 15px;
   }
 
